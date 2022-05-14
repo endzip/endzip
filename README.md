@@ -1,5 +1,5 @@
-## I'm Asdar
-Every project has a different story
+## Every project has a different story
+3 years experience as backend developer
 - <a href="https://asdarnugraha.com/">asdarnugraha.com</a>
 - Sharing updates on <a href="https://web.facebook.com/4SD4R">Facebook</a>
 
