@@ -1,6 +1,6 @@
 ### Hi, I'm Asdar
-![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue)
-![HTML](https://img.shields.io/badge/HTML-Intermediate-lightblue)
+![PHP](https://img.shields.io/badge/PHP-lightblue)
+![HTML](https://img.shields.io/badge/HTML-Intermediate-purple)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
 ## Find me around the web 🌎:
