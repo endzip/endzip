@@ -1,7 +1,7 @@
 ## Hi, I'm Asdar
 Every project has a different story
-- <a href="https://asdarnugraha.com/">asdarnugraha.com</a>
-- Sharing updates on <a href="https://web.facebook.com/4SD4R">Facebook</a>
+- <a href="https://asdarnugraha.com/">![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)</a>
+- Sharing updates on <a href="https://web.facebook.com/4SD4R">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 
 ### Tech i used
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
