@@ -1,4 +1,4 @@
-### Hi I;m Asdar 👋
+### Hi I'm Asdar 👋
 
 <!--
 **endzip/endzip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
