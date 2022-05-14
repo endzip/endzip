@@ -1,4 +1,4 @@
-## Hi, I'm Asdar
+## I'm Asdar
 Every project has a different story
 - <a href="https://asdarnugraha.com/">asdarnugraha.com</a>
 - Sharing updates on <a href="https://web.facebook.com/4SD4R">Facebook</a>
